@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="src">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Documents/trabajosLeo/EA_2019A_Practica5-master/Practica_5/src" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$USER_HOME$/Documents/trabajosLeo/EA_2019A_Practica5-master/Practica_5/src/org" />
+    </excluded>
+  </library>
+</component>

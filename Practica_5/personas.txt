@@ -1,0 +1,4 @@
+(Pedro Rodirguez)(24)(1.7)(75)
+(Juan Perez)(44)(1.6)(80)
+(Jose Jimenez)(32)(1.8)(67)
+(jaime sanchez)(21)(1.73)(52)
